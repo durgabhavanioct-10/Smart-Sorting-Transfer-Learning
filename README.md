@@ -96,8 +96,3 @@ Visit: http://127.0.0.1:5000
 EfficientNet by Google AI
 
 Dataset by Kritik Seth on Kaggle
-📬 Contact
-Koppineedi Lakshmi Prasanna
-📧 prasannakoppineedi@gmail.com
-🌐 LinkedIn: https://www.linkedin.com/in/prasanna-koppineedi-249825316/
-📂 GitHub:(https://github.com/prasannaKoppineedi01)
